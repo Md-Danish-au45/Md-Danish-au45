@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-danish-au45&label=Profile%20views&color=0e75b6&style=flat" alt="md-danish-au45" /> </p>
 
-- 🌱 I’m currently learning **Github**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **linkedin.com/in/md-danish-003180208**
 
