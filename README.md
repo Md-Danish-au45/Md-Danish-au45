@@ -41,12 +41,10 @@
     <img alt="Jqery" src="https://img.shields.io/badge/Jquery-%23563D7C.svg?style=flat&logo=Jqueryp&logoColor=white"/>
   </a>
 &emsp; 
-	
- &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Reactjs" src="https://img.shields.io/badge/Reactjs-%23563D7C.svg?style=flat&logo=Reactjs&logoColor=white"/>
   </a>
-&emsp; 
+&emsp;
 </p>
 
 ### 👉 Databases & Cloud Hosting
