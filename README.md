@@ -47,6 +47,15 @@
 &emsp;
 </p>
 
+### 👉 Backend Development
+&emsp; 
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-%23563D7C.svg?style=flat&logo=Nodejs&logoColor=white"/>
+  </a>
+&emsp;
+
+
+
 ### 👉 Databases & Cloud Hosting
 
 <p align="left">
