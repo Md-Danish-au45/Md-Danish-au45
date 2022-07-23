@@ -18,7 +18,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/md-danish-003180208/" target="blank"><img align="center" src="https://img.shields.io/badge/md danish-003180208?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:danishm856@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/danishm8560@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Md-Danish-au45" target="blank"><img align="center" src="https://img.shields.io/badge/Md-Danish-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-danish-003180208/" target="blank"><img align="center" src="https://img.shields.io/badge/md danish-003180208?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:danishm856@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/danishm8560@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Md-Danish-au45" target="blank"><img align="center" src="https://img.shields.io/badge/Md Danish-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
