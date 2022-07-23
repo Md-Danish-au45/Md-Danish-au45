@@ -29,7 +29,7 @@
   
 |![](https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Bootstrap-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Nodejs-red?style=for-the-badge)|![](https://img.shields.io/badge/Express.js-red?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Reactjs-blue?style=for-the-badge)|![](https://img.shields.io/badge/Version Control-blue?style=for-the-badge)|![](https://img.shields.io/badge/Javascript-blue?style=for-the-badge)|![](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Reactjs-blue?style=for-the-badge)|![](https://img.shields.io/badge/Version%20Control-blue?style=for-the-badge)|![](https://img.shields.io/badge/Javascript-blue?style=for-the-badge)|![](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
   
 <Br>
