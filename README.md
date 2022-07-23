@@ -18,6 +18,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
+	
+### 👉 Backend Development
+&emsp; 
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-%23563D7C.svg?style=flat&logo=Nodejs&logoColor=white"/>
+  </a>
+&emsp;
+
+	
+### 👉 Frameworks
+<p align="left">
+
+&emsp;&ensp;![Express](https://img.shields.io/badge/Express-%23DD0031.svg?style=flat&logo=Express&logoColor=white)
+</p>
 
 ### 👉 Frontend Development
 
@@ -47,12 +61,7 @@
 &emsp;
 </p>
 
-### 👉 Backend Development
-&emsp; 
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-%23563D7C.svg?style=flat&logo=Nodejs&logoColor=white"/>
-  </a>
-&emsp;
+
 
 
 
@@ -68,11 +77,7 @@
  &emsp; 
 </p>
 
-### 👉 Frameworks
-<p align="left">
 
-&emsp;&ensp;![Express](https://img.shields.io/badge/Express-%23DD0031.svg?style=flat&logo=Express&logoColor=white)
-</p>
 
 
 ### 👉Graphic Designing
