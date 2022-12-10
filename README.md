@@ -59,6 +59,17 @@
     <img alt="Reactjs" src="https://img.shields.io/badge/Reactjs-%23563D7C.svg?style=flat&logo=Reactjs&logoColor=white"/>
   </a>
 &emsp;
+	  <a href="https://tailwind.com" target="_blank"> 
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23563D7C.svg?style=flat&logo=Reactjs&logoColor=white"/>
+  </a>
+&emsp;
+	 <a href="https://mui.com/" target="_blank"> 
+    <img alt="MaterialUi" src="https://img.shields.io/badge/Mui-%23563D7C.svg?style=flat&logo=mui&logoColor=white"/>
+  </a>
+&emsp;
+	
+
+
 </p>
 
 
