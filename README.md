@@ -3,7 +3,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;A+Passionate+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am Md Danish i am currently pursuing B.Tech. in CSE. I like to Code, Design, Innovate and Experiment. I am very good person and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am Md Danish i have completed B.Tech. in CSE from MDU. I like to Code, Design, Innovate and Experiment. I am very good person and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mddanish&label=Danish's%20Profile%20Views%20&color=dc143c&style=plastic" alt="MD danish" /> </p>
 
@@ -53,10 +53,6 @@
   </a>
 &emsp; 
 	
- &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Jqery" src="https://img.shields.io/badge/Jquery-%23563D7C.svg?style=flat&logo=Jqueryp&logoColor=white"/>
-  </a>
 &emsp; 
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Reactjs" src="https://img.shields.io/badge/Reactjs-%23563D7C.svg?style=flat&logo=Reactjs&logoColor=white"/>
@@ -94,12 +90,6 @@
 ### 👉 Software & Tools
 
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
