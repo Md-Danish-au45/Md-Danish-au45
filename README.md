@@ -19,7 +19,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="python" src="https://img.shields.io/badge/python%20-%23F7DF1E.svg?logo=python&logoColor=black">
    </a>
 	
 ### 👉 Backend Development
